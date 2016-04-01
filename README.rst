@@ -133,6 +133,8 @@ Speech Recognition
 - `Bavieca <http://www.bavieca.org/index.html>`_ New open source toolkit
   featuring static and dynamic decoders.
 
+- `Google Cloud Speech Api <https://cloud.google.com/speech/>`_
+
 - `kaldi-nnet-dur-model <https://github.com/alumae/kaldi-nnet-dur-model>`_ Neural network phone duration model on top of the Kaldi speech recognition framework, `(Interspeech paper) <https://phon.ioc.ee/dokuwiki/lib/exe/fetch.php?media=people:tanel:icassp2014-durmodel.pdf>`_
 
 - `CMU Sphinx <http://cmusphinx.sourceforge.net/>`_ Open Source Toolkit For Speech
@@ -147,6 +149,8 @@ Speech Recognition
 
 - `Kaldi <http://kaldi.sourceforge.net/>`_ Modern open source toolkit lead by
   Dan Povey featuring many state-of-the-art techniques.
+
+- `Nuance Dragon <http://www.nuance.com/dragon/>`_ - Speech Recognition Software
 
 - `OpenDcd <http://opendcd.org/>`_ An Open Source WFST based Speech Recognition Decoder.
 
@@ -168,7 +172,6 @@ Speech Recognition
 - `RASR <http://www-i6.informatik.rwth-aachen.de/rwth-asr/>`_ RWTH ASR - The
   RWTH Aachen University Speech Recognition System
 
-- `Nuance Dragon <http://www.nuance.com/dragon/>`_ - Speech Recognition Software
 
 Signal Processing
 --------------------
