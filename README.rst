@@ -168,6 +168,8 @@ Speech Recognition
 - `RASR <http://www-i6.informatik.rwth-aachen.de/rwth-asr/>`_ RWTH ASR - The
   RWTH Aachen University Speech Recognition System
 
+- `Nuance Dragon <http://www.nuance.com/dragon/>`_ - Speech Recognition Software
+
 Signal Processing
 --------------------
 
